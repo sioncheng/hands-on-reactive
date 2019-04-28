@@ -1,6 +1,6 @@
 package com.github.sioncheng.rx.errors;
 
-import com.github.sioncheng.rx.flowcontrol.FibonacciFlux;
+import com.github.sioncheng.rx.common.FibonacciFlux;
 import reactor.core.publisher.Flux;
 
 public class ErrorRecovering {

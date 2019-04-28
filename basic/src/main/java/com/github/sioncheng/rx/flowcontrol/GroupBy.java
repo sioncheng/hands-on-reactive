@@ -1,5 +1,6 @@
 package com.github.sioncheng.rx.flowcontrol;
 
+import com.github.sioncheng.rx.common.FibonacciFlux;
 import reactor.core.publisher.Flux;
 
 public class GroupBy {

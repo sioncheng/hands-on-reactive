@@ -1,4 +1,4 @@
-package com.github.sioncheng.rx.flowcontrol;
+package com.github.sioncheng.rx.common;
 
 import reactor.core.publisher.Flux;
 import reactor.util.function.Tuples;
